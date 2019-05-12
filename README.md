@@ -23,10 +23,11 @@ be calculated and displayed automatically.
 
 ## Dependencies
 
-* TypeScript
-* React.js >= v16.8
-* Material
-* Dinero.js
+* [react-compound-interest](),
+* [TypeScript](https://github.com/microsoft/TypeScript),
+* [React.js >= v16.8](https://github.com/facebook/react),
+* [Material UI](https://github.com/mui-org/material-ui),
+* [Dinero.js](https://github.com/sarahdayan/dinero.js).
 
 ## License
 

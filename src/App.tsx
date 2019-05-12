@@ -1,10 +1,10 @@
 import React from 'react';
-import Calculator from './Calculator';
+import CompoundInterest from 'react-compound-interest';
 import './App.css';
 
 const App = () => (
   <div className="App">
-    <Calculator title="Compound Interest Calculator" />
+    <CompoundInterest title="Compound Interest Calculator" />
   </div>
 );
 
